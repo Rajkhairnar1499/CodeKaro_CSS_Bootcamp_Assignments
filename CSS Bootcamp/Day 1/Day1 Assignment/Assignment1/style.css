@@ -1,0 +1,35 @@
+.bg {
+    border-radius: 16px;
+    padding: 120px 50px;
+    margin: 30px auto;
+    width: 500px;
+    height: 220px;
+    background-color: #32E38A;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 21px;
+
+}
+
+.bg h1 {
+    padding: 0px;
+    margin: 0px;
+}
+
+.bg p {
+    padding: 10px 0px;
+    font-size: 14px;
+    font-weight: 600;
+    word-spacing: 2px;
+}
+
+.btn {
+    background-color: white;
+    color: black;
+    border: none;
+    padding: 14px 32px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+    border-radius: 25px;
+    width: 60%;
+}

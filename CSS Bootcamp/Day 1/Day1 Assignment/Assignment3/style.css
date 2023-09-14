@@ -1,0 +1,69 @@
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    border-radius: 14px;
+    margin: 10px auto;
+    width: 400px;
+    border: 1px solid lightgray;
+    font-family: 'Poppins', sans-serif;
+}
+
+.box-img{
+    width: 100%;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+
+.padding {
+    padding: 18px;
+    
+}
+
+.logo {
+    float: left;
+    width: 22px;
+    height: 22px;
+
+}
+
+.line{
+    margin: 0px;
+    padding: 0px;
+}
+.line h5 {
+    padding-left: 35px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 15px;
+    font-weight: 500;
+    color: grey;
+}
+
+.padding h3 {
+    font-weight: 600;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 21px;
+}
+
+.padding p{
+    color: grey;
+    font-size: 17px;
+    font-weight: 500;
+    
+}
+
+.btn {
+    color: #275DC4;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+    background-color: white;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 10px 0px;
+    font-size: 17px;
+    font-weight: 500;
+}
